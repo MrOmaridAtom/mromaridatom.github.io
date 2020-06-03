@@ -1,0 +1,46 @@
+.lets{
+    color: #242424;
+    font-size: 600;
+
+}
+
+button.css3button {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        color: #009c70;
+        padding: 10px 20px;
+        background: -moz-linear-gradient(
+            top,
+            #ff0000 0%,
+            #3b3b3b 50%,
+            #242424 50%,
+            #089ff0);
+        background: -webkit-gradient(
+            linear, left top, left bottom,
+            from(#ff0000),
+            color-stop(0.50, #3b3b3b),
+            color-stop(0.50, #242424),
+            to(#089ff0));
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        border: 1px solid #40ff00;
+        -moz-box-shadow:
+            0px 1px 3px rgba(201,14,201,0.5),
+            inset 0px 0px 1px rgba(255,255,255,0.6);
+        -webkit-box-shadow:
+            0px 1px 3px rgba(201,14,201,0.5),
+            inset 0px 0px 1px rgba(255,255,255,0.6);
+        box-shadow:
+            0px 1px 3px rgba(201,14,201,0.5),
+            inset 0px 0px 1px rgba(255,255,255,0.6);
+        text-shadow:
+            0px -1px 0px rgba(16,122,44,1),
+            0px 1px 0px rgba(255,255,255,0.2);
+    }
+    
+
+    img{
+        width: 300px;
+        height: 400px;
+    }
